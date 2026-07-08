@@ -1,0 +1,8 @@
+numebers = [1,2,3,4,5,6,7,8,9,10]
+
+sting = ["haneesh","food","sports"]
+
+mixed = [1,"haneesh",2,"food"]
+
+for i in numebers :
+    print(i)
