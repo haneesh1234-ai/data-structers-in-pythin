@@ -1,0 +1,17 @@
+numbertuple = (1,2,3,4,5)
+stringtuple = ("haneesh", "joyce" )
+students = ("haneesh", 1, 2, )
+
+numbertples = (1,2,3,4,5,6,6,7,7,8,9,9,10)
+print(len(numbertples))
+
+print(numbertples.count(6))
+
+print(numbertples[6])
+
+print(numbertples[6:10])
+
+num1 = (1,2,3,4,5,6)
+num2 = (7,8,9,10)
+
+print(num1 + num2)
